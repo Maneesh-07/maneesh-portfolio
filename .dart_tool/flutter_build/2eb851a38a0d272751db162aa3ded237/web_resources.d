@@ -1,0 +1,1 @@
+ D:\\freelance\\maneesh_cyber\\build\\web\\manifest.json:  D:\\freelance\\maneesh_cyber\\web\\index.html D:\\freelance\\maneesh_cyber\\web\\manifest.json
